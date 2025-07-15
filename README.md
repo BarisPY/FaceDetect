@@ -30,12 +30,12 @@ Proje, OpenCV'nin sağladığı önceden eğitilmiş Haar Cascade sınıflandır
 ### Kurulum Adımları
 
 1. Projeyi klonlayın:
-   ```bash
-   git clone https://github.com/BarisPY/FaceDetect
-   ```
-   ```bash
-   cd FaceDetection
-   ```
+```bash
+git clone https://github.com/BarisPY/FaceDetect
+```
+```bash
+cd FaceDetection
+```
    
 2. Gerekli kütüphaneleri yükleyin:
 
@@ -73,3 +73,9 @@ Before (Önce)
 
 After (Sonra)
 ![Örnek Çıktı](sample/sample.png)
+
+
+## İletişim
+Sorularınız veya önerileriniz için:
+[Barış Değerli] - [celikbaris263@gmail.com]
+Proje Linki: https://github.com/BarisPY/FaceDetect
