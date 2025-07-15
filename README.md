@@ -68,8 +68,8 @@ image_path = "yeni_gorsel.jpg"
 ## Örnek Çıktılar
 
 Before (Önce)
-https://a.jpg
+[](a.jpg)
 
 
 After (Sonra)
-https://sample/sample.png
+[](sample/sample.png)
