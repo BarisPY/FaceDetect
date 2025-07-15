@@ -36,12 +36,14 @@ git clone https://github.com/BarisPY/FaceDetect
 ```bash
 cd FaceDetection
 ```
-   
+
+
 2. Gerekli kütüphaneleri yükleyin:
 
 ```bash
 pip install opencv-python
 ```
+
 
 3. haarcascade_frontalface_default.xml dosyasının proje dizininde olduğundan emin olun
 
