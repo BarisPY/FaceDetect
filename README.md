@@ -79,5 +79,6 @@ After (Sonra)
 
 ## İletişim
 Sorularınız veya önerileriniz için:
-[Barış Değerli] - [celikbaris263@gmail.com]
-Proje Linki: https://github.com/BarisPY/FaceDetect
+- Barış Değerli - [celikbaris263@gmail.com]
+
+- Proje Linki: [https://github.com/BarisPY/FaceDetect]
