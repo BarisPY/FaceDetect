@@ -68,8 +68,8 @@ image_path = "yeni_gorsel.jpg"
 ## Örnek Çıktılar
 
 Before (Önce)
-[](a.jpg)
+![Örnek Çıktı](a.jpg)
 
 
 After (Sonra)
-[](sample/sample.png)
+![Örnek Çıktı](sample/sample.png)
