@@ -81,4 +81,4 @@ After (Sonra)
 Sorularınız veya önerileriniz için:
 - Barış Değerli - [celikbaris263@gmail.com]
 
-- Proje Linki: [https://github.com/BarisPY/FaceDetect]
+- Proje Linki - [https://github.com/BarisPY/FaceDetect]
